@@ -42,7 +42,7 @@ terraform.rc
 go.mod
 go.sum
 
-# Terraform tests
+# Terraform test
 tests/*.auto.tfvars
 
 streamlit-app-assets.zip
